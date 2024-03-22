@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="display_text_1">Enter Your Age</string>
+    <string name="display_text_2">The History App</string>
+    <string name="display_button_1">Generate History</string>
+    <string name="display_button_2">Clear</string>
+</resources>
